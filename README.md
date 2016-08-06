@@ -1,6 +1,6 @@
 # Issues
 
-**TODO: Add description**
+**Demo project from "Programming Elixir"**
 
 ## Installation
 
